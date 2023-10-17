@@ -1,5 +1,5 @@
 # Имя вашего бота
-botname = "AKYRA"
+botname = "VesperDdosBot"
 # Сюда токен
-token = "6184730983:AAElYmnKbpVcClI5fC3t9wVnzFrEaAskIaI"
+token = "6469037778:AAGQSZuLa70k4hCaxFnyr4G8a_ttVLzrb6g"
 # Код бота в main.py
